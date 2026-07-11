@@ -1,2 +1,2 @@
 __pycache__
-DATABASE_URL = "postgresql://postgres:1707@localhost: 17000/blogdb"
+database.py
